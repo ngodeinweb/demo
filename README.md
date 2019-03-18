@@ -1,4 +1,4 @@
-## JSON SERVER
+## JSON SERVER FOR FAKE API
 
 ## Use your own data
 
